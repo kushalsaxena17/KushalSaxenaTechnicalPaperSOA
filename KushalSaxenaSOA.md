@@ -34,5 +34,11 @@
 3. *Nowadays many apps are games and they use inbuilt functions to run. For example, an app might need GPS so it uses inbuilt GPS functions of the device. This is SOA in mobile solutions.*
 4. *SOA helps maintain museums a virtualized storage pool for their information and content.*
 
+## Reference links:
+* https://en.wikipedia.org/wiki/Service-oriented_architecture
+* https://www.ibm.com/in-en/cloud/learn/soa
+* https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec
+* https://searchapparchitecture.techtarget.com/definition/service-oriented-architecture-SOA
+
 
 
