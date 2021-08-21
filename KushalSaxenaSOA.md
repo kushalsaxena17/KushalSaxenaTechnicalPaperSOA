@@ -2,11 +2,11 @@
 
 Service-Oriented Architecture (SOA) is an architectural approach in which applications make use of services available in the network. In this architecture, services are provided to form applications, through a communication call over the internet.
 
->SOA allows users to combine a large number of facilities from existing services to form applications.
+- SOA allows users to combine a large number of facilities from existing services to form applications.
 
->SOA encompasses a set of design principles that structure system development and provide means for integrating components into a coherent and decentralized system
+- SOA encompasses a set of design principles that structure system development and provide means for integrating components into a coherent and decentralized system
 
->SOA based computing packages functionalities into a set of interoperable services, which can be integrated into different software systems belonging to separate business domains.
+- SOA based computing packages functionalities into a set of interoperable services, which can be integrated into different software systems belonging to separate business domains.
 
 &nbsp;
 
